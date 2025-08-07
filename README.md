@@ -10,7 +10,7 @@ this.gridControl1.ExcelLikeAlignment = true;
 
 **VB**
 ```
-Me.gridControl1.ExcelLikeAlignment = True
+Me.GridControl1.ExcelLikeAlignment = True
 ```
 
 ![Showing text alignment in GridControl](ExcelLikeTextAlignment.png)
