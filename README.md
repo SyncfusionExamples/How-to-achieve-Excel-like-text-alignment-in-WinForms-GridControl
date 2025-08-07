@@ -5,12 +5,12 @@ By default, text alignment in [WinForms GridControl](https://www.syncfusion.com/
 
 **C#**
 ```
-gridControl1.ExcelLikeAlignment = true;
+this.gridControl1.ExcelLikeAlignment = true;
 ```
 
 **VB**
 ```
-GridControl1.ExcelLikeAlignment = True
+Me.gridControl1.ExcelLikeAlignment = True
 ```
 
 ![Showing text alignment in GridControl](ExcelLikeTextAlignment.png)
